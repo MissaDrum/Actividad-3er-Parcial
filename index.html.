@@ -9,10 +9,10 @@ PROGRAMACIÓN  4-L  CETIS 77<br>MAESTRO: ISRAEL RODRIGUEZ</H1><br></P>
 <h2>
 <form name="contact" method="POST" data-netlify="true">
 <center>   
- <label>Your Name: <input type="text" name="name" /></label><br><br>  
-    <label>Your Email: <input type="email" name="email" /></label><br><br>
-    <label>Message: <textarea name="message"></textarea></label><br><br>
-    <button type="submit"><h2>Send</h2></button>
+ <label>Introduce tu nombre <input type="text" name="name" /></label><br><br>  
+    <label>Introduce tu correo: <input type="email" name="email" /></label><br><br>
+    <label>Introduce tu mensaje: <textarea name="message"></textarea></label><br><br>
+    <button type="submit"><h2>Enviar</h2></button>
 </center>
 </h2>
 </form>
